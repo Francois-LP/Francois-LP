@@ -70,21 +70,21 @@
 ## GitHub Stats
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francois-LP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francois-lp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
 ## Repositories by programming languages
- - <a href="https://github.com/Francois-LP?tab=repositories&q=&type=&language=html&sort=">PHP</a>
- - <a href="https://github.com/Francois-LP?tab=repositories&q=&type=&language=JavaScript&sort=">JavaScript</a>
- - <a href="https://github.com/Francois-LP?tab=repositories&q=&type=&language=css&sort=">CSS</a>
- - <a href="https://github.com/Francois-LP?tab=repositories&q=&type=&language=python&sort=">Python</a>
+ - <a href="https://github.com/francois-lp?tab=repositories&q=&type=&language=php&sort=">PHP</a>
+ - <a href="https://github.com/francois-lp?tab=repositories&q=&type=&language=JavaScript&sort=">JavaScript</a>
+ - <a href="https://github.com/francois-lp?tab=repositories&q=&type=&language=css&sort=">CSS</a>
+ - <a href="https://github.com/francois-lp?tab=repositories&q=&type=&language=python&sort=">Python</a>
 
 
 <!--
 ### Contact
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Francois-LP/Francois-LP/issues/new)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/francois-lp/francois-lp/issues/new)
 -->
 
 <br/>
