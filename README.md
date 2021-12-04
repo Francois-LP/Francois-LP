@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <h3>PHP / Symfony Developer | Paris 📌 🇫🇷
+    <h3>PHP / Symfony Developer | Paris 🇫🇷 📌
     </h3>
 </div>
 
