@@ -5,8 +5,7 @@
 </div>
 
 <div align="center">
-    <h3>PHP / Symfony Developer | Paris 📌
-<img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/fr.png" width="22px" style="padding-left:5px" />
+    <h3>PHP / Symfony Developer | Paris 📌 🇫🇷
     </h3>
 </div>
 
@@ -29,7 +28,9 @@
     <a href="https://github.com/francois-lp?tab=repositories&language=php">
         <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
     </a>
-    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+    <a href="#">
+        <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+    </a>
     <a href="https://github.com/francois-lp?tab=repositories&language=html">
         <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
     </a>
@@ -42,7 +43,9 @@
     <a href="https://github.com/francois-lp?tab=repositories&language=javascript">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
     </a>
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white">
+    <a href="#">
+        <img alt="jQuery" src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white">
+    </a>
     <a href="https://github.com/francois-lp?tab=repositories&language=python">
         <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
     </a>
@@ -50,24 +53,43 @@
 
 ### ⚙️ Frameworks and libraries
 <p>
-    <img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white">
-    <img alt="Twig" src="https://img.shields.io/badge/Twig-green.svg?logo=html5&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-    <img alt="PHPUnit" src="https://img.shields.io/badge/PHPUnit-366488.svg?logo=checkmarx&logoColor=white">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-28a745.svg?logo=Selenium&logoColor=white">
-    
+    <a href="#">
+        <img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Twig" src="https://img.shields.io/badge/Twig-green.svg?logo=html5&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="PHPUnit" src="https://img.shields.io/badge/PHPUnit-366488.svg?logo=checkmarx&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Selenium" src="https://img.shields.io/badge/Selenium-28a745.svg?logo=Selenium&logoColor=white">
+    </a>
 
 ### 🗄️ Databases
 <p>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-gray?logo=microsoft-sql-server">
+    <a href="#">
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-gray?logo=microsoft-sql-server">
+    </a>
 </p>
 
 ### 💻 Software and tools
 <p>
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+    <a href="#">
+        <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+    </a>
 </p>
 
 <br/>
